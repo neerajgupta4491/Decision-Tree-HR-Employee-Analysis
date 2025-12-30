@@ -38,4 +38,4 @@ The model predicts whether an employee will quit the company or not
 based on the given input values.
 
 ## Author
-Neeraj
+Neeraj Gupta
